@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af3cdf54-4bf1-4fed-b35b-99a69791f1ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/br/bianna/estacionamento/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/br/vianna/estacionamento/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/br/bianna/estacionamento/model/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/br/vianna/estacionamento/model/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/br/bianna/estacionamento/model/Estacionamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/br/vianna/estacionamento/model/Estacionamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/br/bianna/estacionamento/model/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/br/vianna/estacionamento/model/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/br/bianna/estacionamento/model/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/br/vianna/estacionamento/model/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/br/bianna/estacionamento/model/Veiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/br/vianna/estacionamento/model/Veiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/br/bianna/estacionamento/model/dao/ClienteDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/br/vianna/estacionamento/model/dao/ClienteDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/br/bianna/estacionamento/model/dao/FuncionarioDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/br/vianna/estacionamento/model/dao/FuncionarioDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/br/bianna/estacionamento/model/dao/VeiculoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/br/vianna/estacionamento/model/dao/VeiculoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/br/bianna/estacionamento/model/e/ETipoPlano.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/br/vianna/estacionamento/model/e/ETipoPlano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/br/bianna/estacionamento/model/e/ETipoUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/br/vianna/estacionamento/model/e/ETipoUsuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/br/bianna/estacionamento/model/faces/IGenericsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/br/vianna/estacionamento/model/faces/IGenericsDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/src/main/java/br/bianna/estacionamento/util/conenction/ConnectionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Code/src/main/java/br/vianna/estacionamento/util/conenction/ConnectionFactory.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2YPsxHA4186MmaLeEiyY3wVQ0xE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Usuário/Documents/ADS/Periodo2/POO/trabalho_daves/estacionamento/Code",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af3cdf54-4bf1-4fed-b35b-99a69791f1ef" name="Changes" comment="" />
+      <created>1700438793707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700438793707</updated>
+      <workItem from="1700438794716" duration="21000" />
+      <workItem from="1701094440414" duration="97000" />
+      <workItem from="1701094544969" duration="172000" />
+      <workItem from="1701094760806" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
