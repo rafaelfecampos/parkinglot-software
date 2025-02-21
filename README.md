@@ -6,7 +6,7 @@ Este projeto foi desenvolvido durante o segundo período do curso de **Análise 
 
 Neste repositório, você encontrará:  
 
-- 📌 **Código-fonte** do projeto;  
+- 📌 **Código-fonte** do projeto feito em **Java**;  
 - 📌 **Diagrama de classes**, utilizado para estruturar o sistema;  
 - 📌 **Modelo do banco de dados**, definindo a estrutura das tabelas e relações.  
 
